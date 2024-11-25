@@ -1,0 +1,14 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/bin/Debug/net7.0/classes
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/bin/Debug/net7.0/classes.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/bin/Debug/net7.0/classes.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/bin/Debug/net7.0/classes.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/bin/Debug/net7.0/classes.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/refint/classes.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/ref/classes.dll
