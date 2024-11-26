@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/AccessModifiers.csproj": {}
+  },
+  "projects": {
+    "/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/AccessModifiers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/AccessModifiers.csproj",
+        "projectName": "AccessModifiers",
+        "projectPath": "/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/AccessModifiers.csproj",
+        "packagesPath": "/Users/aliviaguin/.nuget/packages/",
+        "outputPath": "/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aliviaguin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

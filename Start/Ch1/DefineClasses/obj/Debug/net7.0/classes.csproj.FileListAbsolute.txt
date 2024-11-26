@@ -12,3 +12,4 @@
 /Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.pdb
 /Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.genruntimeconfig.cache
 /Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/ref/classes.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.sourcelink.json

@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/obj/Debug/net7.0/PropsMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/obj/Debug/net7.0/PropsMethods.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/obj/Debug/net7.0/PropsMethods.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/obj/Debug/net7.0/PropsMethods.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/obj/Debug/net7.0/PropsMethods.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/bin/Debug/net7.0/PropsMethods
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/bin/Debug/net7.0/PropsMethods.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/bin/Debug/net7.0/PropsMethods.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/bin/Debug/net7.0/PropsMethods.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/bin/Debug/net7.0/PropsMethods.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/obj/Debug/net7.0/PropsMethods.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/obj/Debug/net7.0/refint/PropsMethods.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/obj/Debug/net7.0/PropsMethods.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/obj/Debug/net7.0/PropsMethods.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/PropsMethods/obj/Debug/net7.0/ref/PropsMethods.dll
