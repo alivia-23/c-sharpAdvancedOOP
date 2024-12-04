@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/obj/Debug/net7.0/Inheritance.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll

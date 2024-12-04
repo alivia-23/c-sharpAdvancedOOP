@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SealedClasses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c61ac393d1218b3e94a2844bc7708133f059bc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d287d48783d7448dd2ceb4c8c6ce7b38f648ba7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SealedClasses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SealedClasses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
