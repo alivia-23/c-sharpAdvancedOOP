@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/bin/Debug/net7.0/AccessModifiers
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/bin/Debug/net7.0/AccessModifiers.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/bin/Debug/net7.0/AccessModifiers.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/bin/Debug/net7.0/AccessModifiers.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/bin/Debug/net7.0/AccessModifiers.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/obj/Debug/net7.0/AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/obj/Debug/net7.0/AccessModifiers.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/obj/Debug/net7.0/AccessModifiers.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/obj/Debug/net7.0/AccessModifiers.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/obj/Debug/net7.0/AccessModifiers.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/obj/Debug/net7.0/AccessModifiers.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/obj/Debug/net7.0/refint/AccessModifiers.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/obj/Debug/net7.0/AccessModifiers.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/obj/Debug/net7.0/AccessModifiers.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AccessModifiers/obj/Debug/net7.0/ref/AccessModifiers.dll
