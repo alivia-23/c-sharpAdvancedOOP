@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/bin/Debug/net7.0/AnonTypes
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/bin/Debug/net7.0/AnonTypes.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/bin/Debug/net7.0/AnonTypes.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/bin/Debug/net7.0/AnonTypes.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/bin/Debug/net7.0/AnonTypes.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/obj/Debug/net7.0/AnonTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/obj/Debug/net7.0/AnonTypes.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/obj/Debug/net7.0/AnonTypes.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/obj/Debug/net7.0/AnonTypes.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/obj/Debug/net7.0/AnonTypes.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/obj/Debug/net7.0/AnonTypes.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/obj/Debug/net7.0/refint/AnonTypes.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/obj/Debug/net7.0/AnonTypes.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/obj/Debug/net7.0/AnonTypes.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch1/AnonTypes/obj/Debug/net7.0/ref/AnonTypes.dll
