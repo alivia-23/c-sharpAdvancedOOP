@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/bin/Debug/net7.0/ObjectInitializers
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/bin/Debug/net7.0/ObjectInitializers.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/bin/Debug/net7.0/ObjectInitializers.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/bin/Debug/net7.0/ObjectInitializers.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/bin/Debug/net7.0/ObjectInitializers.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/obj/Debug/net7.0/ObjectInitializers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/obj/Debug/net7.0/ObjectInitializers.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/obj/Debug/net7.0/ObjectInitializers.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/obj/Debug/net7.0/ObjectInitializers.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/obj/Debug/net7.0/ObjectInitializers.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/obj/Debug/net7.0/ObjectInitializers.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/obj/Debug/net7.0/refint/ObjectInitializers.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/obj/Debug/net7.0/ObjectInitializers.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/obj/Debug/net7.0/ObjectInitializers.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ObjectInitializers/obj/Debug/net7.0/ref/ObjectInitializers.dll
