@@ -3,8 +3,8 @@
 
 public class Book {
     // Declare some private fields
-    private string _ISBN = "";
-    private string _title = "";
+    private readonly string _ISBN = "";
+    private readonly string _title = "";
     private string _author = "";
 
     public Book(string ISBN, string Title, string Author) {
@@ -14,8 +14,8 @@ public class Book {
     }
 
     public void Update(string ISBN, string Title, string Author) {
-        _ISBN = ISBN;
-        _title = Title;
+       //_ISBN = ISBN;
+        //_title = Title;
         _author = Author;
     }
 

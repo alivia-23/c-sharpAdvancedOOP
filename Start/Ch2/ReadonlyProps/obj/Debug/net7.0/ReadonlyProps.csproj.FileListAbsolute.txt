@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/bin/Debug/net7.0/ReadonlyProps
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/bin/Debug/net7.0/ReadonlyProps.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/bin/Debug/net7.0/ReadonlyProps.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/bin/Debug/net7.0/ReadonlyProps.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/bin/Debug/net7.0/ReadonlyProps.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/obj/Debug/net7.0/ReadonlyProps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/obj/Debug/net7.0/ReadonlyProps.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/obj/Debug/net7.0/ReadonlyProps.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/obj/Debug/net7.0/ReadonlyProps.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/obj/Debug/net7.0/ReadonlyProps.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/obj/Debug/net7.0/ReadonlyProps.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/obj/Debug/net7.0/refint/ReadonlyProps.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/obj/Debug/net7.0/ReadonlyProps.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/obj/Debug/net7.0/ReadonlyProps.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/ReadonlyProps/obj/Debug/net7.0/ref/ReadonlyProps.dll
