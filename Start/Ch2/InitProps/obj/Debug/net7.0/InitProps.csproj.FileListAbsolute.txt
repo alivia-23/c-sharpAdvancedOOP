@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/obj/Debug/net7.0/InitProps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/obj/Debug/net7.0/InitProps.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/obj/Debug/net7.0/InitProps.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/obj/Debug/net7.0/InitProps.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/obj/Debug/net7.0/InitProps.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/bin/Debug/net7.0/InitProps
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/bin/Debug/net7.0/InitProps.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/bin/Debug/net7.0/InitProps.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/bin/Debug/net7.0/InitProps.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/bin/Debug/net7.0/InitProps.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/obj/Debug/net7.0/InitProps.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/obj/Debug/net7.0/refint/InitProps.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/obj/Debug/net7.0/InitProps.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/obj/Debug/net7.0/InitProps.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/InitProps/obj/Debug/net7.0/ref/InitProps.dll
