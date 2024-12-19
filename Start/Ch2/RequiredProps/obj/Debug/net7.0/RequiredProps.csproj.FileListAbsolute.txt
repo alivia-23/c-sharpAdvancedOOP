@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/bin/Debug/net7.0/RequiredProps
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/bin/Debug/net7.0/RequiredProps.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/bin/Debug/net7.0/RequiredProps.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/bin/Debug/net7.0/RequiredProps.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/bin/Debug/net7.0/RequiredProps.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/obj/Debug/net7.0/RequiredProps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/obj/Debug/net7.0/RequiredProps.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/obj/Debug/net7.0/RequiredProps.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/obj/Debug/net7.0/RequiredProps.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/obj/Debug/net7.0/RequiredProps.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/obj/Debug/net7.0/RequiredProps.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/obj/Debug/net7.0/refint/RequiredProps.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/obj/Debug/net7.0/RequiredProps.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/obj/Debug/net7.0/RequiredProps.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch2/RequiredProps/obj/Debug/net7.0/ref/RequiredProps.dll
