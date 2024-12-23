@@ -11,7 +11,15 @@ public class Temperature {
     }
 
     // TODO: static methods use the 'static' modifier in their declaration
+    public static double FtoC(double FTemp) {
+        double CTemp = (FTemp - 32.0) * (5.0/9.0);
+        return CTemp;
+    }
 
+     public static double CtoF(double CTemp) {
+        double FTemp = (CTemp * (9.0/5.0)) + 32.0   ;
+        return FTemp;
+    }
     // Regular property implementation
     public double Temp { get; set; }
 

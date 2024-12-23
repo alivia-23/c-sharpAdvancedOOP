@@ -8,7 +8,8 @@ Temperature[] temps = {
     };
 
 // TODO: Static methods are accessed using the class name and the method name
-
+System.Console.WriteLine($"{Temperature.FtoC(72.0):F2}");
+System.Console.WriteLine($"{Temperature.CtoF(22.0):F2}");
 
 // How many temperatures are room temp?
 // var roomtemps = 0;

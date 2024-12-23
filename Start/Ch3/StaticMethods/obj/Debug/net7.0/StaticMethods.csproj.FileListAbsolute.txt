@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/bin/Debug/net7.0/StaticMethods
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/bin/Debug/net7.0/StaticMethods.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/bin/Debug/net7.0/StaticMethods.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/bin/Debug/net7.0/StaticMethods.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/bin/Debug/net7.0/StaticMethods.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/obj/Debug/net7.0/StaticMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/obj/Debug/net7.0/StaticMethods.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/obj/Debug/net7.0/StaticMethods.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/obj/Debug/net7.0/StaticMethods.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/obj/Debug/net7.0/StaticMethods.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/obj/Debug/net7.0/StaticMethods.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/obj/Debug/net7.0/refint/StaticMethods.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/obj/Debug/net7.0/StaticMethods.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/obj/Debug/net7.0/StaticMethods.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticMethods/obj/Debug/net7.0/ref/StaticMethods.dll
