@@ -28,6 +28,10 @@ public class Temperature {
         return Temp >= ROOM_TEMP_LOWER_C && Temp <= ROOM_TEMP_UPPER_C;
     }
 
+    public static bool IsRoomTemp(double temp) {
+        return temp >= ROOM_TEMP_LOWER_C && temp <= ROOM_TEMP_UPPER_C;
+    }
+
     // This does not work - will cause a compile error
     // public bool IsRoomTemp {
     //     get => Temp >= ROOM_TEMP_LOWER_C && Temp <= ROOM_TEMP_UPPER_C;
