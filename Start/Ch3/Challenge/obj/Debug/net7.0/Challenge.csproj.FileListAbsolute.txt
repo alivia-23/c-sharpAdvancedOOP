@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/bin/Debug/net7.0/Challenge
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/bin/Debug/net7.0/Challenge.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/bin/Debug/net7.0/Challenge.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/bin/Debug/net7.0/Challenge.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/bin/Debug/net7.0/Challenge.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/obj/Debug/net7.0/Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/obj/Debug/net7.0/Challenge.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/obj/Debug/net7.0/Challenge.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/obj/Debug/net7.0/Challenge.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/obj/Debug/net7.0/Challenge.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/obj/Debug/net7.0/Challenge.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/obj/Debug/net7.0/refint/Challenge.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/obj/Debug/net7.0/Challenge.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/obj/Debug/net7.0/Challenge.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/Challenge/obj/Debug/net7.0/ref/Challenge.dll
