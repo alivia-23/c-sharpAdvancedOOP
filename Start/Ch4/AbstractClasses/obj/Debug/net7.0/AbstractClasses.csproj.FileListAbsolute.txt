@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/bin/Debug/net7.0/AbstractClasses
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/bin/Debug/net7.0/AbstractClasses.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/bin/Debug/net7.0/AbstractClasses.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/bin/Debug/net7.0/AbstractClasses.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/bin/Debug/net7.0/AbstractClasses.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/obj/Debug/net7.0/AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/obj/Debug/net7.0/AbstractClasses.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/obj/Debug/net7.0/AbstractClasses.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/obj/Debug/net7.0/AbstractClasses.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/obj/Debug/net7.0/AbstractClasses.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/obj/Debug/net7.0/AbstractClasses.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/obj/Debug/net7.0/refint/AbstractClasses.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/obj/Debug/net7.0/AbstractClasses.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/obj/Debug/net7.0/AbstractClasses.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractClasses/obj/Debug/net7.0/ref/AbstractClasses.dll
