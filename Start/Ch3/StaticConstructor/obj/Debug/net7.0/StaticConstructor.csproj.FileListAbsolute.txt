@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/bin/Debug/net7.0/StaticConstructor
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/bin/Debug/net7.0/StaticConstructor.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/bin/Debug/net7.0/StaticConstructor.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/bin/Debug/net7.0/StaticConstructor.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/bin/Debug/net7.0/StaticConstructor.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/obj/Debug/net7.0/StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/obj/Debug/net7.0/StaticConstructor.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/obj/Debug/net7.0/StaticConstructor.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/obj/Debug/net7.0/StaticConstructor.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/obj/Debug/net7.0/StaticConstructor.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/obj/Debug/net7.0/StaticConstructor.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/obj/Debug/net7.0/refint/StaticConstructor.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/obj/Debug/net7.0/StaticConstructor.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/obj/Debug/net7.0/StaticConstructor.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticConstructor/obj/Debug/net7.0/ref/StaticConstructor.dll
