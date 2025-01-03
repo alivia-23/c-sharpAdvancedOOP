@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/bin/Debug/net7.0/StaticClasses
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/bin/Debug/net7.0/StaticClasses.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/bin/Debug/net7.0/StaticClasses.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/bin/Debug/net7.0/StaticClasses.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/bin/Debug/net7.0/StaticClasses.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/obj/Debug/net7.0/StaticClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/obj/Debug/net7.0/StaticClasses.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/obj/Debug/net7.0/StaticClasses.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/obj/Debug/net7.0/StaticClasses.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/obj/Debug/net7.0/StaticClasses.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/obj/Debug/net7.0/StaticClasses.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/obj/Debug/net7.0/refint/StaticClasses.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/obj/Debug/net7.0/StaticClasses.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/obj/Debug/net7.0/StaticClasses.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch3/StaticClasses/obj/Debug/net7.0/ref/StaticClasses.dll
