@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/bin/Debug/net7.0/SealedClasses
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/bin/Debug/net7.0/SealedClasses.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/bin/Debug/net7.0/SealedClasses.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/bin/Debug/net7.0/SealedClasses.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/bin/Debug/net7.0/SealedClasses.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/obj/Debug/net7.0/SealedClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/obj/Debug/net7.0/SealedClasses.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/obj/Debug/net7.0/SealedClasses.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/obj/Debug/net7.0/SealedClasses.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/obj/Debug/net7.0/SealedClasses.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/obj/Debug/net7.0/SealedClasses.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/obj/Debug/net7.0/refint/SealedClasses.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/obj/Debug/net7.0/SealedClasses.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/obj/Debug/net7.0/SealedClasses.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/SealedClasses/obj/Debug/net7.0/ref/SealedClasses.dll
