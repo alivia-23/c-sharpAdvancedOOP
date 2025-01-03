@@ -1,0 +1,15 @@
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/bin/Debug/net7.0/AbstractPropsFuncs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/bin/Debug/net7.0/AbstractPropsFuncs.deps.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/bin/Debug/net7.0/AbstractPropsFuncs.runtimeconfig.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/bin/Debug/net7.0/AbstractPropsFuncs.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/bin/Debug/net7.0/AbstractPropsFuncs.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/obj/Debug/net7.0/AbstractPropsFuncs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/obj/Debug/net7.0/AbstractPropsFuncs.AssemblyInfoInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/obj/Debug/net7.0/AbstractPropsFuncs.AssemblyInfo.cs
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/obj/Debug/net7.0/AbstractPropsFuncs.csproj.CoreCompileInputs.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/obj/Debug/net7.0/AbstractPropsFuncs.sourcelink.json
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/obj/Debug/net7.0/AbstractPropsFuncs.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/obj/Debug/net7.0/refint/AbstractPropsFuncs.dll
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/obj/Debug/net7.0/AbstractPropsFuncs.pdb
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/obj/Debug/net7.0/AbstractPropsFuncs.genruntimeconfig.cache
+/Users/aliviaguin/Documents/c-sharpAdvancedOOP/Start/Ch4/AbstractPropsFuncs/obj/Debug/net7.0/ref/AbstractPropsFuncs.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbstractPropsFuncs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e80d9ce1c7462c447f2ab9a5dc968b2e43d0aba9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e46fcd7e266b84c0fd5d2decdd4cad426490b8e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbstractPropsFuncs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbstractPropsFuncs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
